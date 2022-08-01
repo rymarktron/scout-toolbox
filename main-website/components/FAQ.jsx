@@ -17,12 +17,18 @@ const faqs = [
         answer:
           "For sure! You can do this by filling out the feedback form or emailing thescouttoolbox.com to have a conversation.",
       },
+      {
+        id: 4,
+        question: "Are there are other sites that you recommend?",
+        answer:
+          "For sure! You can do this by filling out the feedback form or emailing thescouttoolbox.com to have a conversation.",
+      },    
     ]
   
   export default function Example() {
     return (
       <div className="bg-white">
-        <div className="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
+        <div className="px-4 py-16 mx-auto max-w-7xl sm:py-24 sm:px-6 lg:px-8">
           <div className="max-w-2xl lg:mx-auto lg:text-center">
             <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
               Frequently Asked Questions
