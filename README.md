@@ -17,3 +17,4 @@ Some things you can contribute to our curriculum include:
 * Provide assets or photos
 
 Created by [Ryan Mark](https://github.com/rymarktron)
+Graphics by Kelly Mark
