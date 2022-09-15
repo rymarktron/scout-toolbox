@@ -1,38 +1,19 @@
-# Syntax
+![Scout Curriculum Banner](https://raw.githubusercontent.com/rymarktron/scout-toolbox-curriculum/main/assets/Scout-Landscape.png)
 
-Syntax is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+*The Most Worthwhile thing is to bring happiness into the lives of others - Robert Baden-Powell, Founder of the Scouts Movement*
 
-## Getting started
+# Welcome
+[The Scout Toolbox](https://www.thescouttoolbox.com) 
+ is a place where Youth and Scouters share their knowledge and experiences on a variety of topics. This site is open source to encourage sharing these skills to the public. A variety of topics are
+covered from all skill-levels - beginners, experienced, and advanced.
 
-To get started with this template, first install the npm dependencies:
+# Contributor
+Anyone can be a contributor to this project. Email  <thescouttoolbox@gmail.com>
 
-```bash
-npm install
-cp .env.example .env.local
-```
+Some things you can contribute to our curriculum include:
+* Review the writing (typos, grammars)
+* Advise improvements on functionality
+* Add new resource links
+* Provide assets or photos
 
-Next, run the development server:
-
-```bash
-npm run dev
-```
-
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
-
-## Customizing
-
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
-
-## License
-
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
-
-## Learn more
-
-To learn more about the technologies used in this site template, see the following resources:
-
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
-- [Markdoc](https://markdoc.io) - the official Markdoc documentation
-- [DocSearch](https://docsearch.algolia.com) - the official DocSearch documentation
+Created by [Ryan Mark](https://github.com/rymarktron)
