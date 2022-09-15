@@ -81,8 +81,8 @@ export function Hero() {
               </p>
               <div className="flex gap-4 mt-8 md:justify-center lg:justify-start">
                 <Button href="/">Get started</Button>
-                <Button href="/" variant="secondary">
-                  View on GitHub
+                <Button href="https://www.scouts.ca" variant="secondary">
+                  Scouts Canada
                 </Button>
               </div>
             </div>
