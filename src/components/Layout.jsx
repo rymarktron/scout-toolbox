@@ -15,7 +15,7 @@ const navigation = [
   {
     title: 'Introduction',
     links: [
-      { title: 'Getting started', href: '/' },
+      { title: 'Welcome', href: '/' },
       { title: 'Introduction to Scouts', href: '/docs/introduction-to-scouts/introduction-to-scouts' },
       { title: 'History of Scouting', href: '/docs/introduction-to-scouts/history-of-scouting' },
       { title: 'Scouting Principles', href: '/docs/introduction-to-scouts/scouting-principles' },
